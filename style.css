@@ -1,0 +1,27 @@
+.fichapj{
+  width:435px;
+  background-color:#262626;
+  padding:5px;
+  color:#777;
+  border:solid 3px #594032;
+}
+.fichapj span
+{font-size:10px;}
+#fpest{
+  width:46px;
+  padding:5px;
+  margin:3px;
+  text-align:center;
+  background-color:#202020;
+  display:inline-block;
+}
+#fptal{
+  width:202px;
+  display:inline-block;
+  background-color:#202020;
+  padding:5px;
+  text-align:center;
+  margin:2.5px;
+  overflow:hide;
+  font-size:10px;
+}
